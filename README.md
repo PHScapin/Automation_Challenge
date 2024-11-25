@@ -18,7 +18,7 @@ Este repositório contém o projeto de automação de testes para o **BugBank**,
 
 1. Clone o repositório:  
    ```bash
-   git clone https://github.com/seu-usuario/bugbank-automation.git
+   git clone https://github.com/PHScapin/Automation_Challenge.git
    ```
 2. Instale as dependências necessárias (Robot Framework e bibliotecas associadas).  
 3. Execute os testes:  
