@@ -52,6 +52,6 @@ Successfully Login with Valid Credentials
 Exit the system
     [Documentation]    Scenario: Tries to logout from the system
     [Tags]             login    positive
-    Given on the dashboard page
+    Given on the homepage
     When clicking the exit button
     Then login page is displayed
