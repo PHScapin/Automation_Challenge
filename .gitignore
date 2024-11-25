@@ -1,2 +1,5 @@
 # Caminhos à serem ignorados
 Local/
+
+# Ignorar o diretório do perfil persistente
+chrome-profile/
