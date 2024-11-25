@@ -3,3 +3,6 @@ Local/
 
 # Ignorar o diretório do perfil persistente
 chrome-profile/
+
+# Ignorar o diretório do vscode
+.vscode/
