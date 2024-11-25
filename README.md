@@ -1,4 +1,4 @@
-#🐞 BugBank Automation Challenge
+# 🐞 BugBank Automation Challenge
 
 Este repositório contém o projeto de automação de testes para o **BugBank**, uma plataforma de testes criada para simular operações bancárias. Os testes foram desenvolvidos utilizando o **Robot Framework**, garantindo uma estrutura profissional e flexível, ideal para integração futura com pipelines de **CI/CD**.
 
